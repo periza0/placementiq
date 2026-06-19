@@ -1,0 +1,9 @@
+client_secret.json
+token.json
+.env
+token.pickle
+token.pickle
+chroma/
+__pycache__/
+venv/
+backend/data/
