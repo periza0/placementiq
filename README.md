@@ -1,2 +1,1 @@
-# placementiq
-# placementiq
+Polaris automatically discovered 633 placement job descriptions, successfully parsed 606 (95.7%), generated embeddings for 524 unique, indexable documents after filtering duplicates and low-information files, and currently maintains a searchable vector index covering approximately 500+ unique job descriptions.
